@@ -6,7 +6,7 @@
 
 WebGL, GPGPU Particle, Noise Based Particle  
 
-[Everyday One Motion](http://motions.work/motions/63)  
+[Everyday One Motion](http://motions.work/motion/63)  
 [Demo Page](http://fms-cat-eom.github.io/20160114)  
 
 実は2D（！）  
