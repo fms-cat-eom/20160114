@@ -1,6 +1,13 @@
-# Everyday One Motion - 20160114 "Ether"
+# Everyday One Motion - 20160114  
 
-![](20160114.gif)
+"Ether"  
+
+![](20160114.gif)  
+
+WebGL, GPGPU Particle, Noise Based Particle  
+
+[Everyday One Motion](http://motions.work/motions/63)  
+[Demo Page](http://fms-cat-eom.github.io/20160114)  
 
 実は2D（！）  
 パーティクルは65536粒  
