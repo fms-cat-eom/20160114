@@ -20,7 +20,7 @@ WebGL, GPGPU Particle, Noise Based Particle
 図：赤い箇所（Xが+の箇所）でパーティクルにX+の加速度が掛かっていることがわかる
 
 ## Perfect Loop Particle
-[前回](https://github.com/FMS-Cat/eom_20160107)質問があったので  
+[前回](https://github.com/fms-cat-eom/20160107)質問があったので  
 GIFの1ループと全く同じ周期で、寿命と初期位置と初期速度と周期内の生成タイミングが全く同じパーティクルを生成させる  
 GIF1ループ分処理を回せば自然とperfect loopが出来上がる
 
